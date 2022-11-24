@@ -34,9 +34,9 @@ Named after going to the pictures, because that's a funny way to refer to the ci
 
 **Step Two** - From the following options presented, select Custom, A Specific Website, make sure the link is directed at YouTube and create your Boost.
 
-**Step Three** - To set up the navigation bar modification, go to the <a href="https://imgur.com/c2Dh4nB" target="_blank">content.js tab</a> and insert the contents of the content.js file from <a href="ADD LINK TO CONTENT.JS HERE">this page</a>.
+**Step Three** - To set up the navigation bar modification, go to the <a href="https://imgur.com/c2Dh4nB" target="_blank">content.js tab</a> and insert the contents of the content.js file from <a href="https://github.com/lilyspad/YouTube-Pictures/blob/main/content.js" target="_blank">this page</a>.
 
-**Step Four** - next do the same as the above, moving over to the styles.css page, where you will insert the contents of the styles.css content from <a href="INSERT LINK TO STYLES.CSS HERE">this page.</a>
+**Step Four** - next do the same as the above, moving over to the styles.css page, where you will insert the contents of the styles.css content from <a href="https://github.com/lilyspad/YouTube-Pictures/blob/main/styles.css" target="_blank">this page.</a>
 
 **Step Five** (*optional*) - Select the <a href="https://imgur.com/0d1j5WY" target="_blank">settings button</a> and rename the Boost to YouTube Pictures. This isn't required and won't break anything, it'll just make it look nicer in your extensions menu.
 
