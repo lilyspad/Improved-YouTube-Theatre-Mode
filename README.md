@@ -1,4 +1,4 @@
-a# YouTube Pictures
+# YouTube Pictures
 
 <h1 align="center">
   <br>
@@ -8,7 +8,7 @@ a# YouTube Pictures
   <br>
 </h1>
 
-<h4 align="center">A Boost for the Arc browser designed to improve YouTube's theatre mode when using light mode.
+<h4 align="center">A 2-in-1 Boost for the Arc browser designed to improve YouTube's theatre mode when using light mode.
 Named after going to the pictures, because that's a funny way to refer to the cinemas or dare I say, the theatre?</h4>
 
 <p align="center">
