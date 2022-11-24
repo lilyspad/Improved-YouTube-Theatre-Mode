@@ -1,0 +1,8 @@
+html #player-theater-container,
+html #theater-background,
+html #player-api,
+html .player-api,
+html #player-container,
+html #movie_player video {
+	background-color: transparent !important;
+}
